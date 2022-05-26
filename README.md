@@ -10,6 +10,7 @@ This project is the creation of the back end for an e-commerce site. This applic
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
+* [Connect](#connect)
 
 ## Installation 
 The user should clone the repository from GitHub. This application requires Node.js, Express.js, and Sequelize. To connect to the database run `mysql -u root -p` and enter password from .env file. Then source the schema.sql. To seed the file run `npm run seed`. Finally to connect to the server run `npm start`. 
@@ -28,3 +29,8 @@ Contributors should read the installation section.
 
 ## Tests
 There are no tests for this application. 
+
+## Connect With Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAziz24) 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sumailah-Aziz/) 
